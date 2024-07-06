@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="Your Page Title">
+  <meta property="og:description" content="A brief description of your page">
+  <meta property="og:image" content="URL to your image">
+  <meta property="og:url" content="URL of your Webflow page">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Your Page Title">
+  <meta name="twitter:description" content="A brief description of your page">
+  <meta name="twitter:image" content="URL to your image">
+  <title>Preview Page</title>
+</head>
+<body>
+  <h1>Your Page Title</h1>
+  <p>A brief description of your page.</p>
+</body>
+</html>
